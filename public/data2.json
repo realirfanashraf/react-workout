@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "JavaScript",
+      "course": "Web Development",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "course": "Frontend Development reactjs",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "title": "Node",
+      "course": "Backend Development nodejs",
+      "isActive": true
+    }
+  ]
+  
